@@ -1,0 +1,6 @@
+name: components
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Estudo do uso de componentes
